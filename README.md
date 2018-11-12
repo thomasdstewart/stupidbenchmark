@@ -208,3 +208,10 @@ ARMv6-compatible processor rev 7 (v6l)
 $ bench_cpu 
 68.53 loops per nanosecond (145.62s user, 0.30s sys, 145.92s total)
 ```
+
+### WD ShareSpace
+Feroceon rev 0 (v5l)
+```sh
+$ bench_cpu
+55.44 loops per nanosecond (180.37s user, 0.00s sys, 180.37s total)
+```
