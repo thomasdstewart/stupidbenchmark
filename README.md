@@ -197,6 +197,14 @@ Intel(R) Pentium(R) M processor 1.73GHz
 $ bench_cpu
 246.42 loops per nanosecond (40.57s user, 0.01s sys, 40.58s total)
 ```
+### Raspbery Pi 4
+ARMv7 Processor rev 3 (v7l)
+```sh
+$ ./bench_cpu 
+187.22 loops per nanosecond (53.41s user, 0.00s sys, 53.41s total)
+$ ./bench_mem 
+0.39 megabytes per microsecond (17.25s user, 149.54s sys, 166.79s total)
+```
 
 ### Raspbery Pi 3
 ARMv7 Processor rev 4 (v7l)
