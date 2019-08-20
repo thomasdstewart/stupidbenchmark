@@ -197,6 +197,14 @@ Intel(R) Pentium(R) M processor 1.73GHz
 $ bench_cpu
 246.42 loops per nanosecond (40.57s user, 0.01s sys, 40.58s total)
 ```
+### VIA Technologies, Inc. CN400-8237
+VIA Nehemiah
+[155](https://www.cpubenchmark.net/cpu.php?cpu=VIA+Nehemiah)
+```sh
+$ bench_cpu
+199.35 loops per nanosecond (50.16s user, 0.00s sys, 50.16s total)
+```
+
 ### Raspbery Pi 4
 ARMv7 Processor rev 3 (v7l)
 ```sh
