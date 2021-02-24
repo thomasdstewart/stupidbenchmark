@@ -8,6 +8,17 @@ Stupid Benchmark is a small suite of programs to do stupid benmarks. I created t
 
 ## Sample Runs
 
+### Lenovo ThinkSystem SR630
+Intel(R) Xeon(R) Gold 6144 CPU @ 3.50GHz
+[2523](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Xeon+Gold+6144+%40+3.50GHz)
+```
+$ ./bench_cpu 
+722.00 loops per nanosecond (13.85s user, 0.00s sys, 13.85s total)
+$ ./bench_mem 
+1.71 megabytes per microsecond (7.10s user, 31.21s sys, 38.30s total)
+$ 
+```
+
 ### Amazon z1d.large
 Intel(R) Xeon(R) Platinum 8151 CPU @ 3.40GHz (unlisted)
 [?](http://www.cpubenchmark.net/cpu.php?cpu=Intel+Xeon+Platinum+8151+%40+3.40GHz)
