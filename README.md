@@ -81,6 +81,14 @@ $ bench_mem
 2.64 megabytes per microsecond (4.44s user, 20.39s sys, 24.83s total)
 ```
 
+### Oracle Cloud M.Standard.A1.Flex
+```sh
+$ bench_cpu 
+498.82 loops per nanosecond (20.05s user, 0.00s sys, 20.05s total)
+$ bench_mem 
+16.47 megabytes per microsecond (1.28s user, 2.70s sys, 3.98s total)
+```
+
 ### IBM Flex System x240 Compute Node -[8737T3M]-
 Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz
 [1607](http://www.cpubenchmark.net/cpu.php?cpu=Intel+Xeon+E5-2650+v2+%40+2.60GHz)
