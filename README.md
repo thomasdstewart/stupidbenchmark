@@ -139,6 +139,16 @@ $ bench_mem
 1.19 megabytes per microsecond (4.17s user, 50.81s sys, 54.98s total)
 ```
 
+### Coyote Point Equalizer E370LX (Lanner FW-7582)
+Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz
+[1516](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i3-2120+%40+3.30GHz)
+```sh
+$ bench_cpu 
+423.43 loops per nanosecond (23.62s user, 0.00s sys, 23.62s total)
+$ ./bench_mem 
+2.60 megabytes per microsecond (5.14s user, 20.06s sys, 25.20s total)
+```
+
 ### ASUS RS100-E5/PI2
 Intel(R) Xeon(R) CPU           X3360  @ 2.83GHz
 [1214](http://www.cpubenchmark.net/cpu.php?cpu=Intel+Xeon+X3360+%40+2.83GHz)
