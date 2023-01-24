@@ -243,6 +243,15 @@ $ ./bench_mem
 0.39 megabytes per microsecond (17.25s user, 149.54s sys, 166.79s total)
 ```
 
+### StarFive Tech VisionFive 2
+StarFive JH7110
+```sh
+$ ./bench_cpu 
+187.01 loops per nanosecond (53.47s user, 0.00s sys, 53.47s total)
+$ ./bench_mem 
+0.47 megabytes per microsecond (20.33s user, 119.42s sys, 139.75s total)
+```
+
 ### Raspbery Pi 3
 ARMv7 Processor rev 4 (v7l)
 ```sh
