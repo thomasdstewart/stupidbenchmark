@@ -234,6 +234,14 @@ $ bench_cpu
 199.35 loops per nanosecond (50.16s user, 0.00s sys, 50.16s total)
 ```
 
+### VIA EPIA EK
+VIA Nehemiah
+[101](https://www.cpubenchmark.net/cpu.php?cpu=VIA+Nehemiah)
+```sh
+$ ./bench_cpu 
+197.71 loops per nanosecond (50.52s user, 0.06s sys, 50.58s total)
+```
+
 ### Raspbery Pi 4
 ARMv7 Processor rev 3 (v7l)
 ```sh
