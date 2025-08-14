@@ -298,3 +298,10 @@ Feroceon rev 0 (v5l)
 $ bench_cpu
 55.44 loops per nanosecond (180.37s user, 0.00s sys, 180.37s total)
 ```
+
+### Sun SPARCstation 2
+Cypress/ROSS CY7C601
+```sh
+$ bench_cpu
+2.49 loops per nanosecond (4018.70s user, 0.30s sys, 4019.00s total)
+```
