@@ -71,6 +71,15 @@ $ bench_mem
 2.40 megabytes per microsecond (8.18s user, 19.12s sys, 27.30s total)
 ```
 
+### Nvidia DGX Spark
+10xCortex-X925 + 10xCortex-A725
+```sh
+$ bench_cpu 
+585.78 loops per nanosecond (17.07s user, 0.00s sys, 17.07s total)
+$ bench_mem 
+3.11 megabytes per microsecond (0.74s user, 20.36s sys, 21.10s total)
+```
+
 ### LENOVO ThinkPad W540
 Intel(R) Core(TM) i7-4800MQ CPU @ 2.70GHz
 [1992](http://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i7-4800MQ+%40+2.70GHz)
